@@ -42,9 +42,6 @@
 
 ---
 
-## 🌟 **Streamlit App Preview**
-
----
 
 ## 🔧 **Model Overview**
 
