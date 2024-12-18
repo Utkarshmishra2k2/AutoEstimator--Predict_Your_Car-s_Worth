@@ -20,11 +20,10 @@
 
 1. **Run the Streamlit app**:
 
-   Once dependencies are installed, launch the app by running:
+   Launch the app by clicking:
 
-   ```bash
-   [streamlit run app.py](https://autoestimator-bpz3rparyd7dh5sb5znyli.streamlit.app/)
-   ```
+   
+   [Auto Estimator](https://autoestimator-bpz3rparyd7dh5sb5znyli.streamlit.app/)
 
    This will open the app in your browser (usually at `http://localhost:8501`).
 
