@@ -23,7 +23,7 @@
    Once dependencies are installed, launch the app by running:
 
    ```bash
-   streamlit run app.py
+   [streamlit run app.py](https://autoestimator-bpz3rparyd7dh5sb5znyli.streamlit.app/)
    ```
 
    This will open the app in your browser (usually at `http://localhost:8501`).
